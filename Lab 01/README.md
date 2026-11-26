@@ -1,10 +1,17 @@
-# Array Input and Display
+# DSA Lab 1 – Array Input and Display
 
-In this lab task, I created a simple C++ program to input numbers into an array and display them.
+In this lab, I created a simple C++ program to take numbers from the user, store them in an array, and display all the entered elements.
 
-The program takes the array size from the user, stores the numbers using a loop, and then displays all the entered elements.
+## Task
 
-**What I learned:**
+**Input and Display an Array:** Took the array size and numbers from the user, then displayed them using a loop.
+
+## What I Learned
+
 - How to declare an array.
-- How to take array input.
-- How to display array elements using a loop.
+- How to take input from the user.
+- How to display array elements using a `for` loop.
+
+## Conclusion
+
+This lab helped me understand the basic use of arrays in C++.
