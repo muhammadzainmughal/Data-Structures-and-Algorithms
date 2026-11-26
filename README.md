@@ -14,21 +14,6 @@ This project is part of my learning journey as a BS Software Engineering student
 - **University:** University of Azad Jammu and Kashmir (UAJK)
 - **Programming Language:** C++
 
-## Topics Covered
-
-- Introduction to Data Structures
-- Arrays and Array Operations
-- Array Traversal
-- Array Insertion
-- Array Deletion
-- Linear Search
-- Binary Search
-- Structures in C++
-- Algorithms and Time Complexity
-- Practice Problems
-
-*Topics will be added according to the course lectures.*
-
 ## Repository Structure
 
 ```text
@@ -48,16 +33,6 @@ DSA-CPP/
 - Practice problem-solving.
 - Understand the time complexity of algorithms.
 - Prepare for university practicals and examinations.
-
-## Progress
-
-- [x] Introduction to basic array concepts
-- [x] Array insertion
-- [x] Array deletion
-- [ ] Array traversal practice
-- [ ] Linear search
-- [ ] Binary search
-- [ ] Remaining course topics
 
 ## Tools Used
 
