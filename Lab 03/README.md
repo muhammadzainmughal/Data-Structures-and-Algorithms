@@ -1,4 +1,4 @@
-********# DSA Lab 3 – Linked Lists
+# DSA Lab 3 – Linked Lists
 
 In this lab, I learned how to create and work with singly and doubly linked lists using C++.
 
